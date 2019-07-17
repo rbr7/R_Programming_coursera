@@ -1,1 +1,1 @@
-# coursera_r
+# coursera_r_programming
