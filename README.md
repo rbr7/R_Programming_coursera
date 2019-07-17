@@ -1,9 +1,9 @@
 # Coursera
 
-# R Programming Data Science Specialization | John Hopkins Coursera
+## R Programming Data Science Specialization | John Hopkins Coursera
 
 
-## Projects 
+### Projects 
 Project # | Link 
 --- | --- 
 3 |  [Project 3](https://github.com/rbr7/coursera_r/blob/master/projects/project_3.md)
@@ -11,7 +11,7 @@ Project # | Link
 1 |  [Project 1](https://github.com/rbr7/coursera_r/blob/master/projects/project_1.md)
 
 
-## Quizzes
+### Quizzes
 Quiz # | Link 
 --- | --- 
 4 | [Quiz 4](https://github.com/rbr7/coursera_r/blob/master/quizzes/quiz_4.md)
